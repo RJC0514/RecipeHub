@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+
+# pyenv
+.python-version
+
+# Django
+/django_project/db.sqlite3
+/django_project/static/
+/django_project/django_project/settings/local.py
+
+# Xcode
+*.xcodeproj/xcuserdata/
+
+# Keep any folder with a .keep file
+!.keep
