@@ -11,7 +11,7 @@ from .base import *
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['hackgt.rostersnipoer.com']
+ALLOWED_HOSTS = ['hackgt.rostersniper.com']
 
 SESSION_COOKIE_SECURE = True
 CSRF_COOKIE_SECURE = True
