@@ -1,6 +1,8 @@
 from django.shortcuts import render
-from django.db.models import Count, Q
 from django.http import JsonResponse
+
+from django.db.models import Count, Q, Value
+from django.db.models.functions import Concat
 
 from .models import *
 
@@ -35,7 +37,9 @@ def get_recipes(request):
 		r['ingredients'] = list(
 			RecipeIngredients.objects.filter(
 				recipe=r['id']
-			).values_list('measurement', flat=True)
+			).values_list(
+				'measurement', flat=True
+			)
 		)
 
 	return JsonResponse(list(recipes), safe=False)
