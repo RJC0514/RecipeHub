@@ -1,8 +1,7 @@
 from django.shortcuts import render
 from django.http import JsonResponse
 
-from django.db.models import Count, Q, Value
-from django.db.models.functions import Concat
+from django.db.models import Count, Q
 
 from .models import *
 

@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Ingredient(models.Model):
-    name = models.CharField(max_length=25)
+    name = models.CharField(max_length=50)
 
 
 class Recipe(models.Model):
@@ -15,4 +15,4 @@ class Recipe(models.Model):
 class RecipeIngredients(models.Model):
     ingredient = models.ForeignKey(Ingredient, on_delete=models.CASCADE)
     recipe = models.ForeignKey(Recipe, on_delete=models.CASCADE)
-    measurement = models.CharField(max_length=50)
+    measurement = models.CharField(max_length=100)
