@@ -12,4 +12,4 @@ class Recipe(models.Model):
 class RecipeIngredients(models.Model):
     ingredient = models.ForeignKey(Ingredient, on_delete=models.CASCADE)
     recipe = models.ForeignKey(Recipe, on_delete=models.CASCADE)
-    measurement = models.TextField()
+    name=models.CharField(max_length=50)
