@@ -4,6 +4,8 @@ class Ingredient(models.Model):
     name = models.CharField(max_length=25)
 
 class Recipe(models.Model):
+    name=models.CharField(max_length=100)
+    image_url = models.URLField(max_length=200)
     ingredients = models.ManyToManyField(Ingredient, through='RecipeIngredients')
     instructions = models.TextField()
 
