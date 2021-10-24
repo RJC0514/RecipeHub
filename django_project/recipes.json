@@ -234,56 +234,161 @@
 	"model": "core.ingredient",
 	"pk": 34,
 	"fields": {
-		"name": "1 Cup"
+		"name": "Lemon Juice"
 	}
 },
 {
 	"model": "core.ingredient",
 	"pk": 35,
 	"fields": {
-		"name": "1 3/4 Cups"
+		"name": "Oil"
 	}
 },
 {
 	"model": "core.ingredient",
 	"pk": 36,
 	"fields": {
-		"name": "2 Cups"
+		"name": "Red Wine Vinegar"
 	}
 },
 {
 	"model": "core.ingredient",
 	"pk": 37,
 	"fields": {
-		"name": "1 1/2 Cups"
+		"name": "Onion Flakes"
 	}
 },
 {
 	"model": "core.ingredient",
 	"pk": 38,
 	"fields": {
-		"name": "Peanut Butter"
+		"name": "Minced Garlic"
 	}
 },
 {
 	"model": "core.ingredient",
 	"pk": 39,
 	"fields": {
-		"name": "Powdered Sugar "
+		"name": "Lemon"
 	}
 },
 {
 	"model": "core.ingredient",
 	"pk": 40,
 	"fields": {
-		"name": "Graham Crackers"
+		"name": "Greek Seasoning"
 	}
 },
 {
 	"model": "core.ingredient",
 	"pk": 41,
 	"fields": {
+		"name": "Poultry Seasoning"
+	}
+},
+{
+	"model": "core.ingredient",
+	"pk": 42,
+	"fields": {
+		"name": "Dried Thyme"
+	}
+},
+{
+	"model": "core.ingredient",
+	"pk": 43,
+	"fields": {
+		"name": "Chicken Breasts"
+	}
+},
+{
+	"model": "core.ingredient",
+	"pk": 44,
+	"fields": {
+		"name": "Bread Crumbs"
+	}
+},
+{
+	"model": "core.ingredient",
+	"pk": 45,
+	"fields": {
+		"name": "French Onion Soup Mix"
+	}
+},
+{
+	"model": "core.ingredient",
+	"pk": 46,
+	"fields": {
+		"name": "Mayonnaise"
+	}
+},
+{
+	"model": "core.ingredient",
+	"pk": 47,
+	"fields": {
+		"name": "Garlic Paste"
+	}
+},
+{
+	"model": "core.ingredient",
+	"pk": 48,
+	"fields": {
+		"name": "Peanut Butter"
+	}
+},
+{
+	"model": "core.ingredient",
+	"pk": 49,
+	"fields": {
+		"name": "Powdered Sugar "
+	}
+},
+{
+	"model": "core.ingredient",
+	"pk": 50,
+	"fields": {
+		"name": "Graham Crackers"
+	}
+},
+{
+	"model": "core.ingredient",
+	"pk": 51,
+	"fields": {
 		"name": "Chocolate Chips"
+	}
+},
+{
+	"model": "core.ingredient",
+	"pk": 52,
+	"fields": {
+		"name": "Japanese Curry"
+	}
+},
+{
+	"model": "core.ingredient",
+	"pk": 53,
+	"fields": {
+		"name": "Potato"
+	}
+},
+{
+	"model": "core.ingredient",
+	"pk": 54,
+	"fields": {
+		"name": "Panko Breadcrumbs"
+	}
+},
+{
+	"model": "core.ingredient",
+	"pk": 55,
+	"fields": {
+		"name": "Egg"
+	}
+},
+{
+	"model": "core.ingredient",
+	"pk": 56,
+	"fields": {
+		"name": "Vegetable Oil"
 	}
 },
 {
@@ -292,7 +397,7 @@
 	"fields": {
 		"name": "Bolognese Sauce",
 		"image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F994710.jpg",
-		"instructions": "Because any simple meal goes from good to great with plenty of seasoning and layering flavors on top of each other, I like to start by cooking the chicken in the same pan I cook the vegetables and make the sauce in. When the chicken cooks, it leaves behind a million little flecks of flavor in those brown bits you find at the bottom of the pan (it 's technically called frond) you want in the finished product.\n\nAfter the chicken is cooked, it 's removed from the pan and the veggies go in. I like to essentially get them started, but I also make sure they don 't cook too much, because you want them to stay nice and crisp throughout the baking process.\n\nStir in flour. Cook for a minute or two.\n\nTurn the heat off and slowly whisk in chicken stock and whole milk, making sure there are no lumps. Whisk in sherry. Use a wooden spoon to scrape all the brown bits off the bottom of the pan. Bring the mixture to a boil, then reduce to a simmer. Simmer until very thick, 2-3 minutes.\n\nWhile the sauce and veggies are simmering, chop the chicken into bite-sized pieces. When the sauce is thick, add chicken and season to taste with PLENTY of salt and pepper. Add frozen peas in, stir. Set aside.\n\nPlace one crust in the bottom of the prepared pan. Pour the pot pie mixture on top. Brush the bottom crust with egg wash and cover with another crust. Fold the top crust under, sealing the top and bottom crust. Crimp edges of crust. Brush the entire top with more egg wash (be generous!). If desired, sprinkle with dried thyme. Use a sharp knife to cut vents in the top of the crust to allow steam to escape while baking,. Bake in the oven until top crust is golden brown and filling is bubbling, about 45 minutes. Cool for five minute before serving.\n\nCredit: AllRecipes"
+		"instructions": "Because any simple meal goes from good to great with plenty of seasoning and layering flavors on top of each other, I like to start by cooking the chicken in the same pan I cook the vegetables and make the sauce in. When the chicken cooks, it leaves behind a million little flecks of flavor in those brown bits you find at the bottom of the pan (it 's technically called frond) you want in the finished product.\nAfter the chicken is cooked, it 's removed from the pan and the veggies go in. I like to essentially get them started, but I also make sure they don 't cook too much, because you want them to stay nice and crisp throughout the baking process. \nStir in flour. Cook for a minute or two. \nTurn the heat off and slowly whisk in chicken stock and whole milk, making sure there are no lumps. Whisk in sherry. Use a wooden spoon to scrape all the brown bits off the bottom of the pan. Bring the mixture to a boil, then reduce to a simmer. Simmer until very thick, 2-3 minutes.\nWhile the sauce and veggies are simmering, chop the chicken into bite-sized pieces. When the sauce is thick, add chicken and season to taste with PLENTY of salt and pepper. Add frozen peas in, stir. Set aside.\nPlace one crust in the bottom of the prepared pan. Pour the pot pie mixture on top. Brush the bottom crust with egg wash and cover with another crust. Fold the top crust under, sealing the top and bottom crust. Crimp edges of crust. Brush the entire top with more egg wash (be generous!). If desired, sprinkle with dried thyme. Use a sharp knife to cut vents in the top of the crust to allow steam to escape while baking,. Bake in the oven until top crust is golden brown and filling is bubbling, about 45 minutes. Cool for five minute before serving.\n\r\nCredit: AllRecipes\r\n"
 	}
 },
 {
@@ -301,7 +406,7 @@
 	"fields": {
 		"name": "Classic Chicken Pot Pie",
 		"image_url": "https://images-gmi-pmc.edge-generalmills.com/1dc0506e-8ac3-49eb-b05c-04f413a0f101.jpg",
-		"instructions": "Heat oven to 425F. Prepare pie crusts as directed on box for Two-Crust Pie using 9-inch glass pie pan.\n\nIn 2-quart saucepan, melt butter over medium heat. Add onion; cook 2 minutes, stirring frequently, until tender. Stir in flour, salt and pepper until well blended. Gradually stir in broth and milk, cooking and stirring until bubbly and thickened.\n\nStir in chicken and mixed vegetables. Remove from heat. Spoon chicken mixture into crust-lined pan. Top with second crust; seal edge and flute. Cut slits in several places in top crust.\n\nBake 30 to 40 minutes or until crust is golden brown. During last 15 to 20 minutes of baking, cover crust edge with strips of foil to prevent excessive browning. Let stand 5 minutes before serving. \n\nCredit: AllRecipes"
+		"instructions": "Heat oven to 425F. Prepare pie crusts as directed on box for Two-Crust Pie using 9-inch glass pie pan.\nIn 2-quart saucepan, melt butter over medium heat. Add onion; cook 2 minutes, stirring frequently, until tender. Stir in flour, salt and pepper until well blended. Gradually stir in broth and milk, cooking and stirring until bubbly and thickened.\nStir in chicken and mixed vegetables. Remove from heat. Spoon chicken mixture into crust-lined pan. Top with second crust; seal edge and flute. Cut slits in several places in top crust.\nBake 30 to 40 minutes or until crust is golden brown. During last 15 to 20 minutes of baking, cover crust edge with strips of foil to prevent excessive browning. Let stand 5 minutes before serving. \r\n\r\nCredit: AllRecipes\r\n"
 	}
 },
 {
@@ -310,7 +415,7 @@
 	"fields": {
 		"name": "Shrimp Spaghetti with Tomato Sauce",
 		"image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7006861.jpg",
-		"instructions": "Peel shrimp and place skin, heads, and tails into a large saucepan. Fill pan with water and bring to a boil. Reduce heat to low and let simmer, about 45 minutes.\n\nCombine tomatoes and 1/2 the parsley in a blender; puree until smooth.\n\nHeat olive oil in a separate pan over medium heat. Add onion, bell pepper, and chile pepper; cook and stir until softened, about 5 minutes. Add garlic; cook until fragrant but not browned, 1 to 2 minutes.\n\nPour pureed tomato mixture into the pan with the peppers. Add water, tomato paste, oregano, salt, and black pepper. Stir well; add paprika. Let sauce simmer on low to medium heat until juices have reduced.\n\nStrain shrimp shells from the water. Bring water back to a boil and add spaghetti. Cook spaghetti, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Reserve 1 cup of the cooking water and drain the rest.\n\nIn the meantime, add shrimp to the tomato sauce. Add the reserved water, stir well, and cook until shrimp is pink, about 3 minutes. Plate spaghetti and spoon the sauce on top; garnish with the remaining parsley.\n\nCredit: AllRecipes"
+		"instructions": "Peel shrimp and place skin, heads, and tails into a large saucepan. Fill pan with water and bring to a boil. Reduce heat to low and let simmer, about 45 minutes.\nCombine tomatoes and 1/2 the parsley in a blender; puree until smooth.\nHeat olive oil in a separate pan over medium heat. Add onion, bell pepper, and chile pepper; cook and stir until softened, about 5 minutes. Add garlic; cook until fragrant but not browned, 1 to 2 minutes.\nPour pureed tomato mixture into the pan with the peppers. Add water, tomato paste, oregano, salt, and black pepper. Stir well; add paprika. Let sauce simmer on low to medium heat until juices have reduced.\nStrain shrimp shells from the water. Bring water back to a boil and add spaghetti. Cook spaghetti, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Reserve 1 cup of the cooking water and drain the rest.\nIn the meantime, add shrimp to the tomato sauce. Add the reserved water, stir well, and cook until shrimp is pink, about 3 minutes. Plate spaghetti and spoon the sauce on top; garnish with the remaining parsley.\n\r\nCredit: AllRecipes\r\n"
 	}
 },
 {
@@ -319,16 +424,43 @@
 	"fields": {
 		"name": "Spaghetti Aglio e Olio",
 		"image_url": "https://www.oliviascuisine.com/wp-content/uploads/2017/02/garlic-oil-spaghetti.jpg",
-		"instructions": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally until cooked through but firm to the bite, about 12 minutes. Drain and transfer to a pasta bowl.\n\nCombine garlic and olive oil in a cold skillet. Cook over medium heat to slowly toast garlic, about 10 minutes. Reduce heat to medium-low when olive oil begins to bubble. Cook and stir until garlic is golden brown, about another 5 minutes. Remove from heat.\n\nStir red pepper flakes, black pepper, and salt into the pasta. Pour in olive oil and garlic, and sprinkle on Italian parsley and half of the Parmigiano-Reggiano cheese; stir until combined.\n\nServe pasta topped with the remaining Parmigiano-Reggiano cheese.\n\nCredit: AllRecipes"
+		"instructions": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally until cooked through but firm to the bite, about 12 minutes. Drain and transfer to a pasta bowl.\nCombine garlic and olive oil in a cold skillet. Cook over medium heat to slowly toast garlic, about 10 minutes. Reduce heat to medium-low when olive oil begins to bubble. Cook and stir until garlic is golden brown, about another 5 minutes. Remove from heat.\nStir red pepper flakes, black pepper, and salt into the pasta. Pour in olive oil and garlic, and sprinkle on Italian parsley and half of the Parmigiano-Reggiano cheese; stir until combined.\nServe pasta topped with the remaining Parmigiano-Reggiano cheese.\n\r\nCredit: AllRecipes\r\n"
 	}
 },
 {
 	"model": "core.recipe",
 	"pk": 5,
 	"fields": {
+		"name": "Greek Chicken Skewers",
+		"image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6705859.jpg",
+		"instructions": "Whisk lemon juice, oil, vinegar, onion flakes, garlic, lemon zest, Greek seasoning, poultry seasoning, oregano, pepper, and thyme together in a bowl and pour into a resealable plastic bag.\n\nAdd chicken, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for at least 2 hours.\n\nPreheat the oven to 350 degrees F (175 degrees C).\n\nRemove chicken from the marinade and shake off excess; thread onto skewers. Discard the remaining marinade. Place the skewers on a baking sheet.\n\nRoast in the preheated oven until golden brown, about 20 minutes.\n\nCredit: AllRecipes"
+	}
+},
+{
+	"model": "core.recipe",
+	"pk": 6,
+	"fields": {
+		"name": "French Onion-Breaded Baked Chicken",
+		"image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8125095.jpg",
+		"instructions": "Preheat the oven to 425 degrees F (220 degrees C).\n\nMix bread crumbs and dry soup mix together in a bowl.\n\nMix mayonnaise and garlic paste together in a separate bowl. Microwave on high to thin out consistency, 20 to 30 seconds.\n\nBrush chicken breasts with the mayonnaise mixture. Cover with the crumb mixture. Place on a baking sheet.\n\nBake on the middle rack of the preheated oven until chicken is no longer pink in the center and juices run clear, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).\n\nCredit: AllRecipes"
+	}
+},
+{
+	"model": "core.recipe",
+	"pk": 7,
+	"fields": {
 		"name": "Peanut Butter Bars",
 		"image_url": "https://www.iheartnaptime.net/wp-content/uploads/2013/02/No-bake-peanut-butter-bars.jpg",
-		"instructions": "If you're looking for a super simple no bake dessert then look no further than these super chocolatey peanut butter bars! Not only are they made with quite possibly the best food combo ever (hello peanut butter and chocolate) but they are super quick and easy to make and taste just like your favorite peanut butter cups. Yes, they are that good!\n\nLine a 8x8 or 9x9 dish with parchment paper or foil.\n\nCrush graham crackers in a ziploc bag using a rolling pin or blitz using a food processor.\n\nMelt butter in a large bowl add peanut butter and mix until smooth.\n\nBeat in powdered sugar then fold in the crumbs. Transfer to lined dish and smooth.\n\nMelt chocolate and peanut butter, pour over the peanut butter base, smooth then chill for at least 90 minutes.\nCut into bars and enjoy.\n\nCredit: Preppy Kitchen\n"
+		"instructions": "If you're looking for a super simple no bake dessert then look no further than these super chocolatey peanut butter bars! Not only are they made with quite possibly the best food combo ever (hello peanut butter and chocolate) but they are super quick and easy to make and taste just like your favorite peanut butter cups. Yes, they are that good!\n\nLine a 8x8 or 9x9 dish with parchment paper or foil.\n\nCrush graham crackers in a ziploc bag using a rolling pin or blitz using a food processor.\n\nMelt butter in a large bowl add peanut butter and mix until smooth.\n\nBeat in powdered sugar then fold in the crumbs. Transfer to lined dish and smooth.\n\nMelt chocolate and peanut butter, pour over the peanut butter base, smooth then chill for at least 90 minutes.\nCut into bars and enjoy.\n\nCredit: Preppy Kitchen"
+	}
+},
+{
+	"model": "core.recipe",
+	"pk": 8,
+	"fields": {
+		"name": "Chicken Katsu Curry",
+		"image_url": "https://images.japancentre.com/recipes/pics/301/main/301_Chicken_Katsu_Curry.jpg?1469573012",
+		"instructions": "Cut the onion, potato and carrot into small chunks before adding them to a large pan half filled with water.\n\nBring the water to boil and then simmer for 20 minutes or until the vegetables are soft. It is a good idea to start cooking your rice now.\n\nRemove the saucepan from the heat. Add 4-5 blocks of curry roux to the pot with vegetables. Turn on the heat to low and allow to simmer for 10 minutes. Keep mixing until the curry sauce is thick and smooth.\n\nWhile the curry is infusing, season your chicken breast pieces with salt and pepper before covering with flour first and then raw egg, then panko breadcrumbs.\n\nHeat up the oil in a separate saucepan to 180C and carefully lower the cutlets into the oil and cook them for a few minutes on both sides until they become a golden brown colour.\n\nSlice the cooked chicken katsu into strips and lay over a bed of rice before adding the curry sauce. Garnish with fukujinzuke pickled radish, tonkatsu sauce, and boiled egg halves. Enjoy.\n\nCredit: Japan Center"
 	}
 },
 {
@@ -702,47 +834,290 @@
 },
 {
 	"model": "core.recipeingredients",
+	"pk": 42,
+	"fields": {
+		"ingredient": 34,
+		"recipe": 5,
+		"measurement": "1/4 Cup Lemon Juice"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 43,
+	"fields": {
+		"ingredient": 35,
+		"recipe": 5,
+		"measurement": "1/4 Cup Oil"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 44,
+	"fields": {
+		"ingredient": 36,
+		"recipe": 5,
+		"measurement": "1/3 Cup Red Wine Vinegar"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 45,
+	"fields": {
+		"ingredient": 37,
+		"recipe": 5,
+		"measurement": "1 Tablespoon Onion Flakes"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 46,
+	"fields": {
+		"ingredient": 38,
+		"recipe": 5,
+		"measurement": "1 Tablespoon Minced Garlic"
+	}
+},
+{
+	"model": "core.recipeingredients",
 	"pk": 47,
 	"fields": {
-		"ingredient": 13,
+		"ingredient": 39,
 		"recipe": 5,
-		"measurement": "1 Cup Unsalted Butter Melted, Slightly Cooled"
+		"measurement": "1 Lemon"
 	}
 },
 {
 	"model": "core.recipeingredients",
 	"pk": 48,
 	"fields": {
-		"ingredient": 38,
+		"ingredient": 40,
 		"recipe": 5,
-		"measurement": "1 Cup Creamy Peanut Butter"
+		"measurement": "1 Teaspoon Greek Seasoning"
 	}
 },
 {
 	"model": "core.recipeingredients",
 	"pk": 49,
 	"fields": {
-		"ingredient": 39,
+		"ingredient": 41,
 		"recipe": 5,
-		"measurement": "1 3/4 Cups Powdered Sugar"
+		"measurement": "1 Teaspoon Poultry Seasoning"
 	}
 },
 {
 	"model": "core.recipeingredients",
 	"pk": 50,
 	"fields": {
-		"ingredient": 40,
+		"ingredient": 28,
 		"recipe": 5,
-		"measurement": "2 Cups Graham Cracker Crumbs"
+		"measurement": "1 Teaspoon Dried Oregano"
 	}
 },
 {
 	"model": "core.recipeingredients",
 	"pk": 51,
 	"fields": {
-		"ingredient": 41,
+		"ingredient": 32,
 		"recipe": 5,
-		"measurement": "1 1/2 Cups Semi-Sweet Chocolate Chips"
+		"measurement": "1 Teaspoon Black Pepper"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 52,
+	"fields": {
+		"ingredient": 42,
+		"recipe": 5,
+		"measurement": "1/2 Teaspoon Dried Thyme"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 53,
+	"fields": {
+		"ingredient": 43,
+		"recipe": 5,
+		"measurement": "3 Chicken Breasts"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 54,
+	"fields": {
+		"ingredient": 44,
+		"recipe": 6,
+		"measurement": "1 Cup Bread Crumbs"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 55,
+	"fields": {
+		"ingredient": 45,
+		"recipe": 6,
+		"measurement": "1 (1 Ounce) French Onion Soup Mix"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 56,
+	"fields": {
+		"ingredient": 46,
+		"recipe": 6,
+		"measurement": "1/3 Cup Mayonnaise"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 57,
+	"fields": {
+		"ingredient": 47,
+		"recipe": 6,
+		"measurement": "1 Tablespoon Garlic Paste"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 58,
+	"fields": {
+		"ingredient": 43,
+		"recipe": 6,
+		"measurement": "4 Chicken Breasts"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 59,
+	"fields": {
+		"ingredient": 13,
+		"recipe": 7,
+		"measurement": "1 Cup Butter"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 60,
+	"fields": {
+		"ingredient": 48,
+		"recipe": 7,
+		"measurement": "1 Cup Peanut Butter"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 61,
+	"fields": {
+		"ingredient": 49,
+		"recipe": 7,
+		"measurement": "1 3/4 Cups Powdered Sugar"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 62,
+	"fields": {
+		"ingredient": 50,
+		"recipe": 7,
+		"measurement": "2 Cups Graham Crackers"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 63,
+	"fields": {
+		"ingredient": 51,
+		"recipe": 7,
+		"measurement": "1 1/2 Cups Chocolate Chips"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 64,
+	"fields": {
+		"ingredient": 52,
+		"recipe": 8,
+		"measurement": "4-5 Cubes Japanese Curry"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 65,
+	"fields": {
+		"ingredient": 2,
+		"recipe": 8,
+		"measurement": "1 Onion"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 66,
+	"fields": {
+		"ingredient": 53,
+		"recipe": 8,
+		"measurement": "1 Potato"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 67,
+	"fields": {
+		"ingredient": 3,
+		"recipe": 8,
+		"measurement": "1 Carrot"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 68,
+	"fields": {
+		"ingredient": 26,
+		"recipe": 8,
+		"measurement": "800Ml Water"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 69,
+	"fields": {
+		"ingredient": 54,
+		"recipe": 8,
+		"measurement": "80G Panko Breadcrumbs"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 70,
+	"fields": {
+		"ingredient": 14,
+		"recipe": 8,
+		"measurement": "4 Tbsp Flour"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 71,
+	"fields": {
+		"ingredient": 43,
+		"recipe": 8,
+		"measurement": "4 Chicken Breasts"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 72,
+	"fields": {
+		"ingredient": 55,
+		"recipe": 8,
+		"measurement": "1 Egg"
+	}
+},
+{
+	"model": "core.recipeingredients",
+	"pk": 73,
+	"fields": {
+		"ingredient": 56,
+		"recipe": 8,
+		"measurement": "300Ml Vegetable Oil"
 	}
 }
 ]
