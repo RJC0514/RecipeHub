@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Chicken Pot Pie",
+		"ingredients": ["Chicken", "Carrots", "Celery"],
+		"instructions": "The chicken (Gallus gallus domesticus) is a domesticated subspecies of the red junglefowl originally from Southeastern Asia. Rooster or cock is a term for an adult male bird, and younger male may be called a cockerel. A male that has been castrated is a capon. An adult female bird is called a hen and a sexually immature female is called a pullet.\n\nOriginally raised for cockfighting or for special ceremonies, chickens were not kept for food until the Hellenistic period (4th–2nd centuries BC).[1][2] Humans now keep chickens primarily as a source of food (consuming both their meat and eggs) and as pets.\n\nChickens are one of the most common and widespread domestic animals, with a total population of 23.7 billion as of 2018,[3] up from more than 19 billion in 2011.[4] There are more chickens in the world than any other bird.[4] There are numerous cultural references to chickens – in myth, folklore and religion, and in language and literature. ",
+		"image_url": "https://images-gmi-pmc.edge-generalmills.com/1dc0506e-8ac3-49eb-b05c-04f413a0f101.jpg"
+	},
+	{
+		"name": "Peanut Butter Bars",
+		"ingredients": ["peanut butter", "graham crackers", "chocolate"],
+		"instructions": "instructions",
+		"image_url": "https://www.iheartnaptime.net/wp-content/uploads/2013/02/No-bake-peanut-butter-bars.jpg"
+	}
+]
